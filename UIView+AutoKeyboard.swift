@@ -1,4 +1,4 @@
-// MARK:// 弹框键盘封装
+// MARK:// 弹框键盘封装  注意请勿在同一个VC多次使用
 extension UIView {
     
     fileprivate struct RuntimeKeyboardKey{
